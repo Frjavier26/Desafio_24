@@ -1,0 +1,53 @@
+.contenedorA{
+    margin: 100px;
+    
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid rgb(151, 134, 134);
+}
+
+.contenedorB{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.contenedorC{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 100px;
+    padding: 200px;
+}
+
+.contendorD{
+    display: flex;
+    
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+}
+
+.contenedorF{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 20%;
+    }
+.cantidades {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto;
+}
+.imgPizza{
+    width: 100px;
+    margin: 5px;
+}
+.contenedorE{
+    display: flex;
+    justify-content: space-between;
+    gap: 80%;
+    width: 80%;
+}

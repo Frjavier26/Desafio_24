@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.imagenCont {
+    width: 400px;
+    margin: 10px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}

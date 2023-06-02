@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgba(17, 105, 105, 0.86);
+    margin: 0;
+    color: white;
+}
+.e{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+.enlaces{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60%;
+    color: white;
+}
