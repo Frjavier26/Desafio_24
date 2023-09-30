@@ -17,7 +17,13 @@ export default function Navbar() {
         <div className="navbar">
             <div className="enlaces">
                 <NavLink className={setActiveClass} to="/">
-                    🍕 Pizzería Mamma Mía!
+                    GameZone!
+                </NavLink>
+                <NavLink className={setActiveClass} to="/login">
+                    Login
+                </NavLink>
+                <NavLink className={setActiveClass} to="/Registro"> 
+                    Registrate
                 </NavLink>
 
                 <NavLink className={setActiveClass} to="/Carrito">

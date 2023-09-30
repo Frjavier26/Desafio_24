@@ -42,13 +42,13 @@ export default function CardPizza() {
                             <Card.Title className="titulo">{pizza.name}</Card.Title>
                             <hr />
                             <dl>
-                                <dt>Ingredientes:</dt>
+{/*                                 <dt>Ingredientes:</dt>
                                 <br />
                                 {pizza.ingredients.map((ingredient) => {
                                     return (
                                         <dd key={ingredient}>🍕{ingredient[0].toUpperCase() + ingredient.substring(1)}</dd>
                                     )
-                                })}
+                                })} */}
                             </dl>
                             <hr />
                             <Card.Text>

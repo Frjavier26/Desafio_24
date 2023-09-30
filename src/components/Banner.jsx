@@ -5,9 +5,9 @@ export default function Banner () {
     
     return(
         <div className="headerText">
-        <h1>¡Pizzeria Mamma Mia!</h1>
+        <h1>¡Bienvenido a Gamezone!</h1>
         <br/>
-        <p className='textBanner'>Tenemos el mejor sabor del mundo!</p>
+        <p className='textBanner'>Diviertete comprando!</p>
     </div>
     )
 }

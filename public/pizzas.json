@@ -1,50 +1,50 @@
 [
   {
-    "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+    "desc": "El diseño, los caracteres y las letras de las teclas revestidas y de ABS grabado moldeado por inyección no son fáciles de desvanecer. Resistente al sudor, evita daños en las teclas, mayor durabilidad y respuesta táctil.",
     "id": "P001",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "img": "https://www.lenovo.com/medias/1.png?context=bWFzdGVyfHJvb3R8ODM3MDA1fGltYWdlL3BuZ3xoNDAvaDE0LzExMjM4MDAxMjc5MDA2LnBuZ3xkNmYyZjFjODQ3NjNkYWY4MjdlNDZhYjMwYWQ5MTg1ZjQyNGZjOWVmMjEwNmNlMGExOTc3YzhhYzViZDg4ZjE2",
     "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
-    "name": "napolitana",
+    "name": "Teclado Gamer",
     "price": 5950
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "desc": "El mouse para juegos Lenovo™ Legion M300 RGB brinda el rendimiento, la comodidad y el control que los jugadores de nivel de entrada necesitan para jugar como profesionales",
     "id": "P002",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+    "img": "https://www.monkeycolor.cl/cdn/shop/products/teclado-gamer-mecanico-onikuma-g27-led-rgb-teclado-onikuma-541467_5000x.jpg?v=1651164417",
     "ingredients": ["mozzarella", "tomates", "jamón", "choricillo"],
-    "name": "española",
+    "name": "Teclado game + mouse",
     "price": 7250
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "desc": "El mouse para juegos inalámbricos Lenovo™ Legion M600 Sports posee una batería de larga duración y de carga rápida, ideal para las exigentes sesiones de juegos.",
     "id": "P003",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3",
+    "img": "https://www.lenovo.com/medias/GY50X79385-mouse.png?context=bWFzdGVyfHJvb3R8OTE3NTN8aW1hZ2UvcG5nfGg0NS9oOWIvMTE2MjQ0NDQ1OTIxNTgucG5nfDA4MmUwNGYwMjk3ZDk0YWM2YzlkNDlkYTEzNjg4YzZlYjRhZWFjMDliZTQyZGVmOGVlY2VlNTgyYzAyYzVlZjk",
     "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
-    "name": "salame",
+    "name": "Mouse para juegos inalámbrico",
     "price": 5990
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "desc": "Los JBL TUNE500 ofrecen un sonido potente y de calidad para darle vida a tu día a día. Equipados con sonido JBL Pure Bass, amplificadores JBL de 32 mm y un control remoto universal de un solo botón, compatible con la mayoría de teléfonos inteligentes, estos auriculares te permiten disfrutar de un sonido de alta calidad en cualquier momento. ",
     "id": "P004",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+    "img": "https://www.pcfactory.cl/public/foto/45771/1_1000.jpg?t=1688036086411",
     "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
-    "name": "cuatro estaciones",
+    "name": "Audifonos On-ear JBL Tune 500 Azul",
     "price": 9590
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "desc": "Pantalla: Resolución 1920x1080, Panel VA Tecnología: Tiempo de respuesta de 5 ms, frecuencia de actualización de 60 Hz Conexiones: HDMI y VGA Perfecto para: Productividad",
     "id": "P005",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+    "img": "https://www.pcfactory.cl/public/foto/48792/1_1000.jpg?t=1688058011889",
     "ingredients": ["mozzarella", "tomates cherry", "bacon", "orégano"],
-    "name": "bacon",
+    "name": "Monitor 24 Full HD, Panel VA, 60Hz (LS24A336NHLXZS)",
     "price": 6450
   },
   {
-    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "desc": "La forma más sencilla de agregar almacenamiento adicional de alta velocidad a tu dispositivo. La unidad flash SanDisk Ultra Shift™ USB 3.0 ofrece un rendimiento que te permite mover una película de larga duración hasta 15 veces más rápido que con las unidades estándar USB 2.0.1 Además, gracias a su diseño optimizado y compacto, puedes enchufarlo y dejarlo.",
     "id": "P006",
-    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+    "img": "https://www.pcfactory.cl/public/foto/42110/1_1000.jpg?t=1688013972949",
     "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
-    "name": "pollo picante",
+    "name": "Pendrive 256GB USB 3.0 Ultra Shift",
     "price": 8500
   }
 ]

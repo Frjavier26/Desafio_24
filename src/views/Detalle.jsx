@@ -58,13 +58,13 @@ export default function Detalle() {
                         </Card.Text>
                         <hr />
                         <dl>
-                            <dt>Ingredientes:</dt>
+{/*                             <dt>Ingredientes:</dt>
                             <br />
                             {elegirPizza[0].ingredients.map((ingredient) => {
                                 return (
                                     <dd key={ingredient}>🍕{ingredient[0].toUpperCase() + ingredient.substring(1)}</dd>
                                 )
-                            })}
+                            })} */}
                         </dl>
                         <hr />
                         <div className="bottom">

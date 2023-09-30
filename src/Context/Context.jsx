@@ -14,7 +14,7 @@ export const Provider = ({children}) => {
     const getData = async () =>{
         const res = await fetch("../pizzas.json")
         const data = await res.json();
-
+        
         setPizzas(data);
     };
 
